@@ -1,0 +1,41 @@
+<h1> Costs </h1>
+<br>
+
+<h2> Este foi o projeto que aprendi no YouTube do Hora de codar</h2>
+<p> Costs é um SPI criado em React. Um site com intuito de organizar orçamentos para diversos projetos</p>
+
+<h2> Introdução </h2>
+O site foi criado para gerenciar projetos e cadastras servios com determinado custo que esteja dentro do orçamento estipulado. Utilizamos  a lib Json-server como banco de dados para o front-end do projeto. No curso de react foram utilizados conceitos fundamentais como , react-router, componetização react-icons entre outros
+
+## Tecnologias utilizadas
+VS Code
+Node.JS
+NPM
+Json-server
+React
+React-router-dom
+React-icons
+Uuid
+
+
+
+## Ferramentas
+Na aplicação foi utilizado o <a href="https://nodejs.org/en/download" target="_blank" > Node.JS </a>  na versão 18.14.0 em LTS.
+
+
+
+## Rodando o projeto
+- Para rodar o repositório na sua máquina, é necessário clonar o mesmo.
+  
+- Pra rodar o servidor escreva no terminal:
+```
+npm start
+```
+- Parar de rodar o json-server escreva em outro terminal :
+```
+npm run backend
+```
+
+
+## Status do projeto
+:heavy_check_mark: Aplicação finalizada.
