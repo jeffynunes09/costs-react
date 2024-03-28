@@ -1,0 +1,99 @@
+{
+  "projects": [
+    {
+      "id": "8b71",
+      "name": "Novo Projeto 2 atualizado",
+      "budget": "120000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "3d5d",
+      "name": "Novo Projeto 3",
+      "budget": "9000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "7dac",
+      "name": "Novo Projeto 4",
+      "budget": "12000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "401c",
+      "name": "Novo Projeto 5",
+      "budget": "1200",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "72af",
+      "name": "Novo Projeto 6",
+      "budget": "12000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "36d6",
+      "name": "Novo Projeto 5",
+      "budget": "6000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "6416",
+      "name": "Projeto compra de jogos",
+      "budget": "200000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
